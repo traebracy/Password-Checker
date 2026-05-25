@@ -1,4 +1,4 @@
-# Password Checker
+# Password-Validation
 
 This is a password validation program that checks whether a user's password meets certain requirements.
 
