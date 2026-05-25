@@ -10,8 +10,7 @@ If the password does not meet the rules, the program prompts the user to try aga
 - Conditional logic
 - Methods
 - Loops
-- Password rule checking
-
+  
 ## What I Learned
 
 This project helped me understand how programs can enforce rules and guide users toward entering valid information.
